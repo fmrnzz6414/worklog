@@ -7,7 +7,7 @@
 
 ## ▶ 使ってみる
 
-**https://YOUR-NAME.github.io/worklog/**
+**https://fmrnzz6414.github.io/worklog/**
 
 <!-- 公開後、YOUR-NAME をGitHubのユーザー名に書き換えてください -->
 
@@ -64,4 +64,4 @@ Chrome / Edge の最新版で動作を確認しています。スマートフォ
 
 ---
 
-作者：YOUR-NAME ／ ご意見・不具合報告は [Issues](../../issues) からどうぞ
+作者：fmrnzz6414 ／ ご意見・不具合報告は [Issues](../../issues) からどうぞ
